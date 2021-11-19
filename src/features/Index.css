@@ -1,0 +1,16 @@
+.menu{
+    display: flex;
+    flex: 0;
+    font-size: 3.2em;
+  /* Размер текста */
+  text-align: center;
+  /* Выравнивание по центру */
+  padding: 5px;
+  /* Отступы вокруг текста */
+  background: #521e5f;
+  /* Цвет фона шапки */
+  color: #000000;
+  /* Цвет текста */
+  width: 100%;
+  
+}

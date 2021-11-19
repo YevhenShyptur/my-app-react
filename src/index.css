@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.menu{
+  display: flex;
+  flex: 0;
+  font-size: 3.2em;
+/* Размер текста */
+text-align: center;
+/* Выравнивание по центру */
+padding: 5px;
+/* Отступы вокруг текста */
+background: #000000;
+width: 100%;
+
+}
+ul.hor_nav {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  }
+  ul.hor_nav li {
+    margin-left: 20px;
+    color: white;
+  display: inline;
+  margin-right: 4px;
+  padding: 2px;
+  }
